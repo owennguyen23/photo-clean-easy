@@ -1,2 +1,1 @@
 # PhotoCleanEasy
-# photo-clean-easy
